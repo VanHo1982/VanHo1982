@@ -1,4 +1,4 @@
-      subroutine DFLUX(FLUX,SOL,KSTEP,KINC,TIME,NOEL,NPT,COORDS,
+     subroutine DFLUX(FLUX,SOL,KSTEP,KINC,TIME,NOEL,NPT,COORDS,
      &                 JLTYP,TEMP,PRESS,SNAME)
 C
       include 'ABA_PARAM.INC'
